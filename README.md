@@ -3,7 +3,7 @@
 ## Description
 
 
->This is my portfolio it lists all the applications that I have deveolped thorugouth the duration of the George Washington University bootcamp. 
+>This is my portfolio it lists all the applications that I have deveolped throughout the duration of the George Washington University bootcamp. 
 
 ## Technologies Used
 ```
